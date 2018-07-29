@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="无向图.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{06992B51-3AAB-43A6-9CC0-1AE369FCE80B}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
