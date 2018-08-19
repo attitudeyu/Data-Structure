@@ -15,16 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="二叉查找树.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="插值查找.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="二分查找.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="斐波那契查找.cpp">
+    <ClCompile Include="分治法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
